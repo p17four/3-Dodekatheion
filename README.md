@@ -13,7 +13,7 @@ Inside the application on the menu there is a guide on how to use it.
 Thank you for downloading if you have any problems or creative ideas, feel free to contact me.
 
 
-You can download the app [here](https://github.com/p17four/3-Dodekatheion/releases/tag/v1.0.0)
+You can download the app [here](https://github.com/p17four/3-Dodekatheion/releases/tag/v1.0.0).
 
 
 
